@@ -24,4 +24,7 @@ int main(){
     else if(marks > 40){
         cout << "You got E grade.";
     }
+
+    return 0;
+    
 }
