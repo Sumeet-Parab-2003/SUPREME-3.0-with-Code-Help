@@ -11,5 +11,9 @@ int main(){
         cout << i << " " ;
     }
 
+    // Initialization, Condition, Updation 
+    // among these three whcih is mandatory and which is not mandotary for a "for loop" to work successfully??
+    // ANS: Check ur notes. 
+
     return 0;
 }
