@@ -11,5 +11,14 @@ int main(){
         }
     }
 
+
+    // this alternate solution only prints from 1 to 4 and this is because break is written before printing.
+    // for (int i = 1; i<=10; i++){
+    //     if(i==5){
+    //         break;
+    //     }
+    //     cout << i << " ";
+    // }
+
     return 0;
 }
