@@ -17,7 +17,7 @@ int main(){
         }
     }
     else{
-        cout << "Are ye baccha kiska khogaya. Bhai pehle tu COMPLAN pi aur height badha fir baat karenge tuzse";
+        cout << "Are ye baccha kiska khogaya. Bhai pehle tu CoMpLadN pi aur height badha fir baat karenge tuzse";
     }
     return 0;
 }
