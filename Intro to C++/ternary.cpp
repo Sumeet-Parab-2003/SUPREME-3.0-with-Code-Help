@@ -12,7 +12,7 @@ using namespace std;
 
     int result = (x > y) ? x : y;
 
-    cout << 
+    cout << "Result = " << result ;
 
     return 0;
  }
