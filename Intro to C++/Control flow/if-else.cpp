@@ -25,5 +25,4 @@ int main(){
          cout << "You are still a minor, Bhai Bada hoja pehle. ";
 
     }
-
-}
+} 

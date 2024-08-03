@@ -7,14 +7,14 @@ int main(){
     // }
     // cout << endl;
 
-    //initialization
-    // int i = 1;
-    // do{
-    //     //logic
-    //     cout << i << " ";
-    //     //updation
-    //     i++;
-    // }while(i<=5);  //condition
+   // initialization
+    int i = 1;
+    do{
+        //logic
+        cout << i << " ";
+        //updation
+        i++;
+    }while(i<=5);  //condition
 
     //EXERCISE
     
@@ -27,11 +27,12 @@ int main(){
     //     cout << "Sumeet";
     // }
 
-    if(cout << "Hiiii"){
-        cout << "Sumeet";
-    }
+    // if(cout << "Hiiii"){
+    //     cout << "Sumeet";
+    // }
 
 
 
     return 0;
 }
+
